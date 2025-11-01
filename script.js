@@ -25,5 +25,5 @@ document.getElementById("signupForm").addEventListener("submit", function (e) {
     }
 
     message.style.color = "green";
-    message.textContent = "Inscription réussie ! 🎉";
+    message.textContent = "Inscription réussie";
 });
